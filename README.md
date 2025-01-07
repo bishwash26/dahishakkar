@@ -1,2 +1,2 @@
-# dahishakkar
-A repo to create beautiful mobile invitation 
+# Dahishakkar
+A repo to create beautiful wedding invitation. Celebrate your special day with dahishakkar.
